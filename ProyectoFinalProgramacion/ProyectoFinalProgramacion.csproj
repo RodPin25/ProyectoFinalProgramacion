@@ -197,6 +197,7 @@
     <Compile Include="BoletosFormulario.Designer.cs">
       <DependentUpon>BoletosFormulario.cs</DependentUpon>
     </Compile>
+    <Compile Include="BoletosJSON.cs" />
     <Compile Include="ColaFormulario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -277,6 +278,7 @@
     <Compile Include="seleccionarAsientos.Designer.cs">
       <DependentUpon>seleccionarAsientos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Transaccion.cs" />
     <Compile Include="Ubicacion.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="VentaBoleto.cs">

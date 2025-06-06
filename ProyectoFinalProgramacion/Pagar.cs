@@ -107,7 +107,7 @@ namespace ProyectoFinalProgramacion
             // Si todo es correcto, proceder con el pago
             MessageBox.Show("Pago realizado con éxito.");
             unvalidateSeats(compraActual.asientos);
-            mainForm.AbrirFormularioEnPanel(new BoletosFormulario(mainForm, compraActual.asientos)); //Aca tengo que abrir el form donde puede descargar los tickets y se genera el QR
+            mainForm.AbrirFormularioEnPanel(new BoletosFormulario(mainForm, compraActual.asientos,zona)); //Aca tengo que abrir el form donde puede descargar los tickets y se genera el QR
             this.Close();
         }
 

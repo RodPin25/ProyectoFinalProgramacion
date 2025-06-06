@@ -18,5 +18,8 @@ namespace ProyectoFinalProgramacion
             this.username = username;
             this.fechaCompra = fechaCompra;
         }
+
+        //Constructor vacio para poder deserealizar desde JSON
+        public Boleto() { }
     }
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "asiento": {
+      "Fila": 15,
+      "Columna": 24,
+      "Ocupado": true,
+      "Seleccionado": false
+    },
+    "username": "Rodpin24",
+    "fechaCompra": "2025-06-05T22:06:56.8841417-06:00"
+  },
+  {
+    "asiento": {
+      "Fila": 15,
+      "Columna": 25,
+      "Ocupado": true,
+      "Seleccionado": false
+    },
+    "username": "Rodpin24",
+    "fechaCompra": "2025-06-05T22:06:56.8938117-06:00"
+  },
+  {
+    "asiento": {
+      "Fila": 15,
+      "Columna": 26,
+      "Ocupado": true,
+      "Seleccionado": false
+    },
+    "username": "Rodpin24",
+    "fechaCompra": "2025-06-05T22:06:56.8958394-06:00"
+  }
+]
